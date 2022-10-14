@@ -1,4 +1,4 @@
-# Lab 3
+# LAB 3
 Greatest Common Divisor
 Write a program that asks user input two positive integers and prints out its greatest common 
 divisor. Here is an example of the user session: <br>
