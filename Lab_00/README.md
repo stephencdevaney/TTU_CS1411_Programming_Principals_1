@@ -1,4 +1,4 @@
-# Lab 0: getting started with Python
+# LAB 0: getting started with Python
 What’s this lab about?
 
 ## In Lab 0, our goal is to introduce you to a few things:
