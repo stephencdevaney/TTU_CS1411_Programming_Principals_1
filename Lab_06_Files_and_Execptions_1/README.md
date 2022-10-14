@@ -15,4 +15,5 @@ Please enter your output file: result.txt <br>
 Output file is successfully created. The output is written to <br>
 result.txt <br>
 
-Content of math_exp.txt and result.txt
+Content of math_exp.txt and result.txt <br>
+![Alt text](file_content.jpg?raw=true)
