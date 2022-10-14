@@ -1,4 +1,4 @@
-# Lab 7
+# LAB 7
 Problem 1 – Pascal’s Triangle: <br>
 Pascal’s triangle is a geometric arrangement of sums that have interesting mathematical properties - most famously, the binomial coefficients.
 
